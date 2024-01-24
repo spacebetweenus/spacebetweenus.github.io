@@ -82,10 +82,7 @@ analytics:
 author:
   name             : "Guanchen Wu(吴冠辰)"
   avatar           : "pic.png"
-  bio              : | Master Student
-                       Emory University
-                       guanchew@uci.edu
-  
+  bio              : "Master Student"\n"Emory University"
   location         : "Atlanta, GA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
