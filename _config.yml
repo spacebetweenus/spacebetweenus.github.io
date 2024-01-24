@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Guanchen Wu(吴冠辰)"
   avatar           : "pic.png"
-  bio              : |"Master Student" 
-                      "Emory University"
-                      "guanchew@uci.edu"
+  bio              : | Master Student
+                       Emory University
+                       guanchew@uci.edu
   
   location         : "Atlanta, GA"
   employer         :
