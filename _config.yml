@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guanchen Wu's Personal Homepage"
+title                    : "Guanchen Wu's Homepage"
 title_separator          : "-"
 name                     : "Guanchen Wu"
 description              : &description "Graduate Student in Emory University"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "guanchen.wu@emory.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "https://spacebetweenus.github.io/"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      :  # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/guanchen-wu-4b553a216/"
   orcid            :  # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
