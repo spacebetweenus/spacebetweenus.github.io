@@ -12,13 +12,10 @@ Welcome! I'm Guanchen Wu, a first-year graduate student on the computer science 
 
 You can find my CV here: [Guanchen Wu's Curriculum Vitae](../assets/cv.pdf)
 
-# 🌟 **What's New**
-- 09/202 
-- 06/2023
+# 🌟 Recent Readings
+- The Razor's Edge (W. Somerset Maugham)
+- The Tibetan Book of Living and Dying (Sogyal Rinpoche)
+- What Life Could Mean to You (Alfred Adler)
 
-Recent Readings:
-The Razor's Edge (W. Somerset Maugham)
-The Tibetan Book of Living and Dying (Sogyal Rinpoche)
-What Life Could Mean to You (Alfred Adler)
 
 [Email](mailto:guanchew@uci.edu) / [Github](https://github.com/spacebetweenus)
